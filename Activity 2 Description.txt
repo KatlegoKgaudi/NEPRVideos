@@ -1,0 +1,11 @@
+Contents of 1st Video
+Explanation: In this section, we will delve into the world of PowerShell console window customization. By personalizing the console window to suit your preferences, you can enhance your PowerShell experience and boost productivity.
+Concepts: 1. How to use and modify PowerShell window customization options. 2. How to change command console color attributes.
+How-To Guide: The PowerShell console window can be your workspace, and it's essential to tailor it according to your needs. Follow these steps to customize it effectively:
+1.	Accessing the Properties: To begin customizing the PowerShell console, open PowerShell and right-click on the top bar of the console window. From the context menu, select "Properties."
+2.	Options Tab: In the "Properties" window, navigate to the "Options" tab. Here, you'll find various options to tweak the behavior of your console. For instance, you can enable "QuickEdit Mode," which simplifies copying and pasting.
+3.	Colors Tab: The "Colors" tab allows you to modify the color attributes of your console. You can choose different colors for different elements, making it visually appealing and easy to differentiate between various components. Experiment with options like "Screen Background" and "Screen Text" colors.
+4.	Saving Changes: Once you've customized the console to your liking, click "OK" to save your changes. Your PowerShell console will now reflect the modifications you made.
+With these customizations, you can create a PowerShell environment tailored to your preferences, improving your efficiency and overall experience.
+________________________________________
+Feel free to adjust the wording or add more details as needed to match your writing style and the specific requirements of your tutorial.
